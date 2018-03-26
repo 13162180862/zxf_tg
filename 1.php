@@ -6,6 +6,8 @@
 
  echo phpinfo();
 
+ echo 'aaaaaaaaa';
+
 
 
 
